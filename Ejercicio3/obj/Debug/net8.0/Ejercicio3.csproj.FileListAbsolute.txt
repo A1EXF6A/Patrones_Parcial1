@@ -1,0 +1,15 @@
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\bin\Debug\net8.0\Ejercicio3.exe
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\bin\Debug\net8.0\Ejercicio3.deps.json
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\bin\Debug\net8.0\Ejercicio3.runtimeconfig.json
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\bin\Debug\net8.0\Ejercicio3.dll
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\bin\Debug\net8.0\Ejercicio3.pdb
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfoInputs.cache
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfo.cs
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\Ejercicio3.sourcelink.json
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\Ejercicio3.dll
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\refint\Ejercicio3.dll
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\Ejercicio3.pdb
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\Ejercicio3.genruntimeconfig.cache
+D:\Universidad\QUINTO_SEMESTRE\patrones\Ejercicios_parcial1\Ejercicio3\obj\Debug\net8.0\ref\Ejercicio3.dll

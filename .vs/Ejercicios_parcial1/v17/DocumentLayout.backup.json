@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio3\\servicio\\entradadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\servicio\\entradadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio3\\servicio\\convertirnumeroromano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\servicio\\convertirnumeroromano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio3\\servicio\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\servicio\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio3\\interfaces\\ientradadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\interfaces\\ientradadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio3\\interfaces\\iconvertirnumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\interfaces\\iconvertirnumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio3\\interfaces\\icalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\interfaces\\icalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -20,8 +49,95 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6d52cee1-a15c-42fd-8d30-faacc8d1dd02}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntradaDatos.cs",
+              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Interfaces\\IEntradaDatos.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Interfaces\\IEntradaDatos.cs",
+              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Interfaces\\IEntradaDatos.cs",
+              "RelativeToolTip": "Ejercicio3\\Interfaces\\IEntradaDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:45:21.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IConvertirNumero.cs",
+              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Interfaces\\IConvertirNumero.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Interfaces\\IConvertirNumero.cs",
+              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Interfaces\\IConvertirNumero.cs",
+              "RelativeToolTip": "Ejercicio3\\Interfaces\\IConvertirNumero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:42:15.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Servicio\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Servicio\\Calculadora.cs",
+              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Servicio\\Calculadora.cs",
+              "RelativeToolTip": "Ejercicio3\\Servicio\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:56:15.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertirNumeroRomano.cs",
+              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Servicio\\ConvertirNumeroRomano.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Servicio\\ConvertirNumeroRomano.cs",
+              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Servicio\\ConvertirNumeroRomano.cs",
+              "RelativeToolTip": "Ejercicio3\\Servicio\\ConvertirNumeroRomano.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:30:20.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntradaDatos.cs",
+              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Servicio\\EntradaDatos.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Servicio\\EntradaDatos.cs",
+              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Servicio\\EntradaDatos.cs",
+              "RelativeToolTip": "Ejercicio3\\Servicio\\EntradaDatos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:35:29.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:23:36.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICalculadora.cs",
+              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Interfaces\\ICalculadora.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Interfaces\\ICalculadora.cs",
+              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Interfaces\\ICalculadora.cs",
+              "RelativeToolTip": "Ejercicio3\\Interfaces\\ICalculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:56:03.464Z",
+              "EditorCaption": ""
             }
           ]
         }
