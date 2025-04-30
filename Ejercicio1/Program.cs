@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            INumberInput input = new ConsoleNumberInput();
+            IManualDivider divider = new ManualDivider();
+            IOutputWriter output = new ConsoleOutputWriter();
+
+            // Coordinador principal de la aplicación
+            DivisionApp app = new DivisionApp(input, divider, output);
+            app.Run();
         }
     }
 }
