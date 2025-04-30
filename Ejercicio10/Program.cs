@@ -1,4 +1,5 @@
-﻿using Ejercicio10;
+﻿using System.Runtime.CompilerServices;
+using Ejercicio10;
 
 internal class Program
 {
@@ -46,19 +47,28 @@ internal class Program
 
     for (int j = 0; j < fractions.Count; j++)
     {
-      if (j == fractions.Count - 1) Console.Write($"+ {fractions[j]}");
-      else if (j == 0) Console.Write($"{fractions[j]} ");
+      if (j == 0)
+      {
+        Console.Write($"{fractions[j]} ");
+        continue;
+      }
+
+      bool isNegative = fractions[j].StartsWith('-');
+
+      if (isNegative) Console.Write($"- {fractions[j][1..]} ");
+      else Console.Write($"+ {fractions[j]} ");
+
     }
 
     if (integerValidator.IsValidInput(fractionResult))
     {
-      Console.WriteLine($" = {fractionResult}");
+      Console.WriteLine($"= {fractionResult} ");
     }
     else
     {
       string simplifiedFraction = converter.GetSimplifiedFraction(fractionResult);
 
-      Console.WriteLine($" = {simplifiedFraction}");
+      Console.WriteLine($"= {simplifiedFraction}");
     }
 
 
