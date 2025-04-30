@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\",
+  "WorkspaceRootPath": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABF21403-60BB-4431-B4FC-8086C10D688B}|Ejercicio10\\Ejercicio10.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF21403-60BB-4431-B4FC-8086C10D688B}|Ejercicio10\\Ejercicio10.csproj|solutionrelative:ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\sebs\\documents\\patrones\\patrones\\patrones_parcial1\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF58AFB6-C47D-4907-8BA8-410C7879B955}|Ejercicio7\\Ejercicio7.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF58AFB6-C47D-4907-8BA8-410C7879B955}|Ejercicio7\\Ejercicio7.csproj|c:\\users\\sebs\\documents\\patrones\\patrones\\patrones_parcial1\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF58AFB6-C47D-4907-8BA8-410C7879B955}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2F7551-6283-4D82-9E44-5D28849A51E5}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\sebs\\documents\\patrones\\patrones\\patrones_parcial1\\ejercicio8\\magicsquarebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\magicsquarebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A77A828-6C49-4A05-86A5-3B4ED750A20E}|Ejercicio1\\Ejercicio1.csproj|d:\\universidad\\quinto_semestre\\patrones\\ejercicios_parcial1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A77A828-6C49-4A05-86A5-3B4ED750A20E}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\sebs\\documents\\patrones\\patrones\\patrones_parcial1\\ejercicio8\\manualnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\manualnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\sebs\\documents\\patrones\\patrones\\patrones_parcial1\\ejercicio8\\magicsquarevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\magicsquarevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\sebs\\documents\\patrones\\patrones\\patrones_parcial1\\ejercicio8\\imagicsquaregenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\imagicsquaregenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\sebs\\documents\\patrones\\patrones\\patrones_parcial1\\ejercicio8\\ejercicio8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22D50294-4316-4741-A34C-CC3D7B4A9804}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\ejercicio8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF58AFB6-C47D-4907-8BA8-410C7879B955}|Ejercicio7\\Ejercicio7.csproj|c:\\users\\sebs\\documents\\patrones\\patrones\\patrones_parcial1\\ejercicio7\\ejercicio7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF58AFB6-C47D-4907-8BA8-410C7879B955}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\ejercicio7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,84 +42,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio10\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio10\\Program.cs",
-              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio10\\Program.cs",
-              "RelativeToolTip": "Ejercicio10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T14:10:16.673Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio8\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio8\\Program.cs",
-              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio8\\Program.cs",
-              "RelativeToolTip": "Ejercicio8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T14:10:01.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio7\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio7\\Program.cs",
-              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio7\\Program.cs",
               "RelativeToolTip": "Ejercicio7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T14:09:38.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
-              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio3\\Program.cs",
-              "RelativeToolTip": "Ejercicio3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T14:09:20.341Z",
+              "WhenOpened": "2025-04-30T16:54:06.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
-              "ToolTip": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio1\\Program.cs",
-              "RelativeToolTip": "Ejercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Title": "MagicSquareValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\MagicSquareValidator.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\MagicSquareValidator.cs",
+              "ToolTip": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\MagicSquareValidator.cs",
+              "RelativeToolTip": "Ejercicio8\\MagicSquareValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T14:08:49.771Z",
+              "WhenOpened": "2025-04-30T15:29:59.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManualNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\ManualNumberGenerator.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\ManualNumberGenerator.cs",
+              "ToolTip": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\ManualNumberGenerator.cs",
+              "RelativeToolTip": "Ejercicio8\\ManualNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:29:02.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMagicSquareGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\IMagicSquareGenerator.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\IMagicSquareGenerator.cs",
+              "ToolTip": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\IMagicSquareGenerator.cs",
+              "RelativeToolTip": "Ejercicio8\\IMagicSquareGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:28:12.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio8.csproj",
+              "DocumentMoniker": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\Ejercicio8.csproj",
+              "RelativeDocumentMoniker": "Ejercicio8\\Ejercicio8.csproj",
+              "ToolTip": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\Ejercicio8.csproj",
+              "RelativeToolTip": "Ejercicio8\\Ejercicio8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T15:09:18.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\Program.cs",
+              "RelativeToolTip": "Ejercicio8\\Program.cs",
+              "ViewState": "AgIAAAAAAACgTVY4IfIuwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:44:40.866Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6d52cee1-a15c-42fd-8d30-faacc8d1dd02}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ejercicio7.csproj",
+              "DocumentMoniker": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio7\\Ejercicio7.csproj",
+              "RelativeDocumentMoniker": "Ejercicio7\\Ejercicio7.csproj",
+              "ToolTip": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio7\\Ejercicio7.csproj",
+              "RelativeToolTip": "Ejercicio7\\Ejercicio7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T15:08:48.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MagicSquareBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\MagicSquareBuilder.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\MagicSquareBuilder.cs",
+              "ToolTip": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio8\\MagicSquareBuilder.cs",
+              "RelativeToolTip": "Ejercicio8\\MagicSquareBuilder.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:31:37.03Z",
+              "EditorCaption": ""
             }
           ]
         }

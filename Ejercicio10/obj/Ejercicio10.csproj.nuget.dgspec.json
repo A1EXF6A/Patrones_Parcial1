@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio10\\Ejercicio10.csproj": {}
+    "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio10\\Ejercicio10.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio10\\Ejercicio10.csproj": {
+    "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio10\\Ejercicio10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio10\\Ejercicio10.csproj",
+        "projectUniqueName": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio10\\Ejercicio10.csproj",
         "projectName": "Ejercicio10",
-        "projectPath": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio10\\Ejercicio10.csproj",
-        "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\QUINTO_SEMESTRE\\patrones\\Ejercicios_parcial1\\Ejercicio10\\obj\\",
+        "projectPath": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio10\\Ejercicio10.csproj",
+        "packagesPath": "C:\\Users\\Sebs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sebs\\Documents\\Patrones\\PATRONES\\Patrones_Parcial1\\Ejercicio10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sebs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
