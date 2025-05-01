@@ -8,6 +8,7 @@ namespace Ejercicio1
 {
     public interface IManualDivider
     {
-        (string Quotient, string Remainder) Divide(string dividend, string divisor);
+        (string Quotient, string Remainder, string Display) Divide(string dividend, string divisor);
+
     }
 }

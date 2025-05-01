@@ -8,7 +8,6 @@ namespace Ejercicio1
 {
     public class DivisionApp
     {
-        // Inyección de dependencias para entrada, lógica, salida (Principio D - Dependency Inversion)
         private readonly INumberInput _input;
         private readonly IManualDivider _divider;
         private readonly IOutputWriter _output;
@@ -22,15 +21,11 @@ namespace Ejercicio1
 
         public void Run()
         {
-            // Lee los números
             var (A, B) = _input.ReadNumbers();
             try
             {
-                // Ejecuta la división
-                var (quotient, remainder) = _divider.Divide(A, B);
-
-                // Imprime resultado
-                _output.Write($"Cociente: {quotient}\nResto: {remainder}");
+                var (quotient, remainder, display) = _divider.Divide(A, B);
+                _output.Write(display);
             }
             catch (DivideByZeroException)
             {
